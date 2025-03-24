@@ -4,6 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kumar-lakshmanan&label=Profile%20views&color=brightgreen&style=flat&base=150" alt="kumar-lakshmanan" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kumar-lakshmanan" alt="ilgarlunin" /></a> </p>
 
+<!-- Stack Overflow -->
+<a href="https://stackexchange.com/users/73920"><img src="https://stackexchange.com/users/flair/73920.png" width="208" height="58" alt="profile for Kumaresan Lakshmanan on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Kumaresan Lakshmanan on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
+
 
 <h3 align="left">Languages and Tools</h3>
 <p align="left">
