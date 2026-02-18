@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Kumaresan</h1>
 <h3 align="center">A passionate developer from India</h3>
 
+<p>
+    Writing Python for over 15 years — mostly to automate what shouldn’t be done twice. And making life a simpler, exploring technologies & simplifying complexity, blending them with Python to build something elegant and a meaningful solution. Still curious, Still exploring, Still automating, Still pythoning, and will do that for ever.
+</p>
+
 <!-- Stack Overflow -->
 Stack Overflow Contibutions
 <br>
